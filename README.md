@@ -22,7 +22,7 @@ FaceScope is an advanced face recognition and analysis system that leverages cut
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/YourUsername/FaceScope.git
+   git clone https://github.com/Kiruthika162003/FaceScope.git
    cd FaceScope
    ```
 
